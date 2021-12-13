@@ -1,9 +1,9 @@
 ### `Requirement in details`
 
 - Show list of F1 world champions starting from 1950 until now.
-- Clicking on champion should dispaly the list of winner for every race.
-- Highlight when the winner has been the world champion for same season.
-  - user Driver id to find the winner is world champion for same season
+- Clicking on champion should display the list of winners for every race.
+- Highlight when the winner has been the world champion for the same season.
+  - user Driver id to find the winner is world champion for the same season
 - Use Ergast api(https://ergast.com/api) to get world champions details and race winner details
 
 ### `Ergast Developer API`
@@ -13,15 +13,15 @@
 
 ### `Tech`
 
-- Used React with JXS to develop the single page application.
-- JS and CSS for component and design.
-- Used Axios for connecting to api.
+- Used React with JXS to develop the single-page application.
+- JS and CSS for components and design.
+- Used Axios for connecting to API.
 - Jest for Unit testing.
 - Used function components to render the UI
-- used React hooks to handle life cycle event.(`useState and useEffect`).
+- used React hooks to handle life cycle events.(`useState and useEffect`).
 - Validated lint basic rules (`To run linting -> npm run lint`).
-- To improve the user experinace showed the race winner details in same page so that user can naviage easly between the season.Hence `Routing is not Needed/implemented`.
-- `Redux is not required` for this application - As we are not moving beween the multiple page and multiple components. also the data can be handled in componet state it self.
+- To improve the user experience showed the race winner details in the same page so that users can navigate easily between the season. Hence `Routing is not Needed/implemented`.
+- `Redux is not required` for this application - As we are not moving between the multiple page and multiple components. also, the data can be handled in componets state itself.
 - Used 'prop-types' to validate/avoid run time errors for component params.(Default and expected data types.)
 
 ### `To start -> npm start`
