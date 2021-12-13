@@ -1,0 +1,8 @@
+.championDetail {
+  width: 700px;
+  border-left: 10px solid #00afef;
+  padding: 10px;
+  box-sizing: content-box;
+  text-align: left;
+  background: #cfd7d7;
+}

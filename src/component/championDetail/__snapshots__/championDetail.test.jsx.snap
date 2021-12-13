@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render champion detail shopshot Should validate shopshot 1`] = `
+<body>
+  <div>
+    <div
+      class="championDetail"
+    >
+      <h2>
+        2021
+         - 
+        Piquet
+         
+        Nelson
+      </h2>
+      <span>
+        Points:
+        73
+         | Wins:
+        3
+      </span>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Should validate champion detail Should validate shopshot 1`] = `
+<body>
+  <div>
+    <div
+      class="championDetail"
+    >
+      <h2>
+        2021
+         - 
+        Piquet
+         
+        Nelson
+      </h2>
+      <span>
+        Points:
+        73
+         | Wins:
+        3
+      </span>
+    </div>
+  </div>
+</body>
+`;

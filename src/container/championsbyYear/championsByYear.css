@@ -1,0 +1,10 @@
+.championsByYear {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: aliceblue;
+  align-content: center;
+  padding: 24px;
+  gap: 20px;
+}

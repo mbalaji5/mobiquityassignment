@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should validate Loading Should validate shopshot 1`] = `
+<body>
+  <div>
+    <div>
+      ...Loading
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Should validate loading Should validate shopshot 1`] = `
+<body>
+  <div>
+    <div>
+      ...Loading
+    </div>
+  </div>
+</body>
+`;

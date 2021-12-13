@@ -1,21 +1,29 @@
 {
-  "name": "mobilitycodeassignment",
+  "name": "mobiquityassignment",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "@wojtekmaj/enzyme-adapter-react-17": "^0.6.6",
+    "axios": "^0.24.0",
+    "enzyme": "^3.11.0",
+    "lint": "^0.7.0",
+    "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "testing-library": "^0.0.2",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "lint": "eslint src/**/*.js src/**/*.jsx",
+    "lint-fix": "eslint src/**/*.js src/**/*.jsx --fix"
   },
   "eslintConfig": {
     "extends": [
@@ -34,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "identity-obj-proxy": "^3.0.0"
   }
 }

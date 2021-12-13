@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render Winners ByRace shopshot Should validate shopshot 1`] = `
+<body>
+  <div>
+    <div>
+      <div>
+        ...Loading
+      </div>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Should valildate Winners ByRace Should validate shopshot 1`] = `
+<body>
+  <div>
+    <div>
+      <div>
+        ...Loading
+      </div>
+    </div>
+  </div>
+</body>
+`;

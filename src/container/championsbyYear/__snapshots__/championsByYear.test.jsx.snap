@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render champion detail shopshot Should validate shopshot 1`] = `
+<body>
+  <div>
+    <div
+      class="championsByYear"
+    >
+      <div>
+        ...Loading
+      </div>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Should validate champion by year Should validate shopshot 1`] = `
+<body>
+  <div>
+    <div
+      class="championsByYear"
+    >
+      <div>
+        ...Loading
+      </div>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Should validate champion by year Should validate shopshot 2`] = `
+<body>
+  <div>
+    <div
+      class="championsByYear"
+    >
+      <div>
+        ...Loading
+      </div>
+    </div>
+  </div>
+</body>
+`;

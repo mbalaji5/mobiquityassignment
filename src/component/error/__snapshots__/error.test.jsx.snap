@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should validate champion detail Should validate shopshot 1`] = `
+<body>
+  <div>
+    <div>
+      Service "ergast.com" is down.Please try again some time!
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Should validate error detail Should validate shopshot 1`] = `
+<body>
+  <div>
+    <div>
+      Service "ergast.com" is down.Please try again some time!
+    </div>
+  </div>
+</body>
+`;

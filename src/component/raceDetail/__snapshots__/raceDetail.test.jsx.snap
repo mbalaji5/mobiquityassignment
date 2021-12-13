@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render race detail shopshot Should validate shopshot 1`] = `
+<body>
+  <div>
+    <div
+      class="raceDetail"
+    >
+      <h4>
+        Bahrain Grand Prix
+         :
+      </h4>
+      <h4
+        class="highlight"
+      >
+        Hamilton
+         
+        Lewis
+      </h4>
+      <br />
+      <span>
+        Date : 
+        2021-03-28
+         | Round : 
+        1
+         | Point : 
+        25
+         | Duration : 
+        1:32:03.897
+         | Nationality : 
+        British
+      </span>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Should validate race detail Should validate shopshot 1`] = `
+<body>
+  <div>
+    <div
+      class="raceDetail"
+    >
+      <h4>
+        Bahrain Grand Prix
+         :
+      </h4>
+      <h4
+        class="highlight"
+      >
+        Hamilton
+         
+        Lewis
+      </h4>
+      <br />
+      <span>
+        Date : 
+        2021-03-28
+         | Round : 
+        1
+         | Point : 
+        25
+         | Duration : 
+        1:32:03.897
+         | Nationality : 
+        British
+      </span>
+    </div>
+  </div>
+</body>
+`;
